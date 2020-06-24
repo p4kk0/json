@@ -1,0 +1,22 @@
+[ {
+  "descripcion" : "Dummy descripcion general",
+  "fecha" : "07/05/2020",
+  "iddocumento" : "31696162",
+  "nombredocumento" : "DummyNombreDocumento",
+  "resumen" : "DummyResumen",
+  "urlDocumento" : null
+}, {
+  "descripcion" : "Dummy2 descripcion general",
+  "fecha" : "06/05/2020",
+  "iddocumento" : "31696162",
+  "nombredocumento" : "Dummy2NombreDocumento",
+  "resumen" : "Dummy2Resumen",
+  "urlDocumento" : null
+}, {
+  "descripcion" : "Dummy3 descripcion general",
+  "fecha" : "02/05/2020",
+  "iddocumento" : "31696162",
+  "nombredocumento" : "Dummy3NombreDocumento",
+  "resumen" : "Dummy3Resumen",
+  "urlDocumento" : null
+} ]
